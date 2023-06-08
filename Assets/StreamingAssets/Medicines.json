@@ -1,0 +1,16 @@
+{
+    "medicinelist": [
+        {
+            "count": 0,
+            "name": "red"
+        },
+        {
+            "count": 11,
+            "name": "blue"
+        },
+        {
+            "count": 3,
+            "name": "yellow"
+        }
+    ]
+}
